@@ -1,0 +1,10 @@
+*o
+*exe
+*gch
+main
+Command_1
+.clang-format.1
+*d
+*a
+bin/Generator/
+bin/test/
